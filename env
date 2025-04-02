@@ -1,0 +1,7 @@
+API_KEY=90d8e69f88cbf07368af2a6ee6a28134-24bda9c7-b7b3a0bd
+MAILGUN_DOMAIN=sandbox3a2aab2225ca489188dc365ed0e1aa9f.mailgun.org
+SENDER_EMAIL=postmaster@sandbox3a2aab2225ca489188dc365ed0e1aa9f.mailgun.org
+RECEIVER_EMAIL=kimjh0957@gmail.com
+
+
+.env 파일
